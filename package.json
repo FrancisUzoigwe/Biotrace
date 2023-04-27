@@ -1,0 +1,17 @@
+{
+  "name": "biotrace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functios.js",
+  "scripts": {
+    "start": "nodemon defineclass.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "global": "^4.4.0",
+    "nodemon": "^2.0.20",
+    "prompt-sync": "^4.2.0"
+  }
+}

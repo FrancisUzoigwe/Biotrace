@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    
+    
+}
+main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.wrapper{
+    height: 100px;
+    width: auto;
+}
+.side{
+    padding: 20px;
+    margin-left: 10px;
+}
+.download > span > img{
+    height: 50px;
+    width: 150px;
+}
+h1{
+    font-size: 55px;
+}
